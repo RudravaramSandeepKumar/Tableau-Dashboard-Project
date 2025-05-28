@@ -54,7 +54,7 @@ The Sample superstore data used to create an interactive visuals using those fea
 
 
 ## DashBoard
-The complete Dashboard with Important KPIs
+The complete Dashboard with Important KPI
 
 ![Sample store dashboard pic 1](https://github.com/user-attachments/assets/188195f5-0f05-4d53-a8a4-15c400f1af62)
 
