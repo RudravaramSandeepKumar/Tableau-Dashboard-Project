@@ -36,11 +36,17 @@ The Sample superstore data used to create an interactive visuals using those fea
 
 ## Dashboard Interaction
 <a href = "https://github.com/RudravaramSandeepKumar/Tableau-Dashboard-Project/blob/main/Sample%20store%20dashboard%20pic.png">View Dashboard</a>
+
 <a href = "https://github.com/RudravaramSandeepKumar/Tableau-Dashboard-Project/blob/main/Lollipop%20chart.png">View Lollipop Chart</a>
+
 <a href = "https://github.com/RudravaramSandeepKumar/Tableau-Dashboard-Project/blob/main/Rank%20Chart.png">View Rank Chart</a>
+
 <a href = "https://github.com/RudravaramSandeepKumar/Tableau-Dashboard-Project/blob/main/Combined%20Dual%20Axis.png">View Combined Dual Axis Chart</a>
+
 <a href = "https://github.com/RudravaramSandeepKumar/Tableau-Dashboard-Project/blob/main/Waterfall%20Chart.png">View WaterFall Chart</a>
+
 <a href = "https://github.com/RudravaramSandeepKumar/Tableau-Dashboard-Project/blob/main/Bar%20in%20Bar%20Chart.png">View Bar In Bar Chart</a>
+
 <a href = "https://github.com/RudravaramSandeepKumar/Tableau-Dashboard-Project/blob/main/Pareto%20Charts.png">View Pareto Chart</a>
 
 
