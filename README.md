@@ -16,6 +16,7 @@ This repository contains a comprehensive Tableau visualization dashboard showcas
 The Sample superstore data used to create an interactive visuals using those feature to see the trends/futrure sales of the data, in this I have created an essential KPIs based on that data to see the trends over sale by profits and Analysed the deep insights of the visuals and created the dashboards and story based on the data source.
 
 ## Dataset Used
+
 <a href = "https://github.com/RudravaramSandeepKumar/Tableau-Dashboard-Project/blob/main/Sample%20-%20Superstore_Orders.csv.xlsx">Dataset</a>
 
 ## Question KPIs
@@ -35,6 +36,7 @@ The Sample superstore data used to create an interactive visuals using those fea
 
 
 ## Dashboard Interaction
+
 <a href = "https://github.com/RudravaramSandeepKumar/Tableau-Dashboard-Project/blob/main/Sample%20store%20dashboard%20pic%201.png">View Dashboard</a>
 
 <a href = "https://github.com/RudravaramSandeepKumar/Tableau-Dashboard-Project/blob/main/Lollipop%20chart.png">View Lollipop Chart</a>
@@ -53,6 +55,7 @@ The Sample superstore data used to create an interactive visuals using those fea
 
 ## DashBoard
 The complete Dashboard with Important KPIs
+
 ![Sample store dashboard pic 1](https://github.com/user-attachments/assets/188195f5-0f05-4d53-a8a4-15c400f1af62)
 
 
@@ -60,21 +63,32 @@ The complete Dashboard with Important KPIs
 Below are all the individuals visuals for key Insights of the data
 
 The lollipop Chart shows the accurate number of sales with visually accurate.
+
 ![Lollipop chart](https://github.com/user-attachments/assets/188b487d-9ac1-481d-b146-b50bc08021f9)
 
+
 Rank Chart, In this visual we can see yhe ranks of the sales over the years and regions we can see the legends.
+
 ![Rank Chart](https://github.com/user-attachments/assets/eacd90c6-8894-4f57-8286-4435d7b35bd4)
 
+
 The combination of axis we can see the dual charts of sales across categories.
+
 ![Combined Dual Axis](https://github.com/user-attachments/assets/3f9bf783-78ea-4e90-8913-04cea56b9ca7)
 
+
 The Water Fall Chart shows the increase and dcecrease of sales at each category.
+
 ![Waterfall Chart](https://github.com/user-attachments/assets/52ffaeb7-c9a7-4d48-8a48-98b52ddbf894)
 
+
 The bar in bar chart represents the profit in sales of each category.
+
 ![Bar in Bar Chart](https://github.com/user-attachments/assets/38c0385b-b977-4df9-8889-6ae0eabb8630)
 
+
 The pareto chart shows the 80% of Running sales in the First  20% of sum of distinct count orders.
+
 ![Pareto Charts](https://github.com/user-attachments/assets/28850b6f-9a9b-4c65-a65d-bc52fcc474a0)
 
 
