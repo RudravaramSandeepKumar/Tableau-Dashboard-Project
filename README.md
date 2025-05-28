@@ -67,9 +67,11 @@ The lollipop Chart shows the accurate number of sales with visually accurate.
 ![Lollipop chart](https://github.com/user-attachments/assets/188b487d-9ac1-481d-b146-b50bc08021f9)
 
 
+
 Rank Chart, In this visual we can see yhe ranks of the sales over the years and regions we can see the legends.
 
 ![Rank Chart](https://github.com/user-attachments/assets/eacd90c6-8894-4f57-8286-4435d7b35bd4)
+
 
 
 The combination of axis we can see the dual charts of sales across categories.
@@ -77,14 +79,17 @@ The combination of axis we can see the dual charts of sales across categories.
 ![Combined Dual Axis](https://github.com/user-attachments/assets/3f9bf783-78ea-4e90-8913-04cea56b9ca7)
 
 
+
 The Water Fall Chart shows the increase and dcecrease of sales at each category.
 
 ![Waterfall Chart](https://github.com/user-attachments/assets/52ffaeb7-c9a7-4d48-8a48-98b52ddbf894)
 
 
+
 The bar in bar chart represents the profit in sales of each category.
 
 ![Bar in Bar Chart](https://github.com/user-attachments/assets/38c0385b-b977-4df9-8889-6ae0eabb8630)
+
 
 
 The pareto chart shows the 80% of Running sales in the First  20% of sum of distinct count orders.
