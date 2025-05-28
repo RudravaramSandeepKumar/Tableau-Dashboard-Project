@@ -35,7 +35,7 @@ The Sample superstore data used to create an interactive visuals using those fea
 
 
 ## Dashboard Interaction
-<a href = "https://github.com/RudravaramSandeepKumar/Tableau-Dashboard-Project/blob/main/Sample%20store%20dashboard%20pic.png">View Dashboard</a>
+<a href = "https://github.com/RudravaramSandeepKumar/Tableau-Dashboard-Project/blob/main/Sample%20store%20dashboard%20pic%201.png">View Dashboard</a>
 
 <a href = "https://github.com/RudravaramSandeepKumar/Tableau-Dashboard-Project/blob/main/Lollipop%20chart.png">View Lollipop Chart</a>
 
@@ -53,7 +53,7 @@ The Sample superstore data used to create an interactive visuals using those fea
 
 ## DashBoard
 The complete Dashboard with Important KPIs
-![Sample store dashboard pic](https://github.com/user-attachments/assets/71c4ada6-5239-44db-a4ae-d13ca4ab864a)
+![Sample store dashboard pic 1](https://github.com/user-attachments/assets/188195f5-0f05-4d53-a8a4-15c400f1af62)
 
 
 ## KeyFact Observations From the Dashboard
